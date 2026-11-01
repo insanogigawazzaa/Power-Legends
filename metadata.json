@@ -1,0 +1,6 @@
+{
+  "name": "Lore Ball Legends - Gacha Simulator",
+  "description": "Simulador de gacha inspirado en Dragon Ball Legends con banners, obtención de Cronocristales y colección de personajes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para la creación de un Visor de Laboratorio independiente con vista previa conceptual de sprites estilo Dokkan Battle (chibi dinámico con auras y poses de combate). Incluye la generación de los sprites para los personajes destacados del simulador, una pantalla modal aislada de inspección tipo galería de conceptos, controles de interacción visual (auras activables, animación de suspensión/respiración y poses de ataque) sin alterar las mecánicas centrales del juego.",
+  "updatedAt":  "2026-10-21T02:46:56.974535469Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
